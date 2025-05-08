@@ -1,6 +1,6 @@
 # BARKALLAH Ibrahim 👋
 
-Welcome to my GitHub portfolio! I'm Ibrahim BARKALLAH, a 22-year-old engineering student who is passionate about information security. Currently, I am in my first year of engineering studies and also work simultaneously in the AGENA cloud and security department as a network and system specialist.
+Welcome to my GitHub portfolio! I'm Ibrahim BARKALLAH, a 25-year-old engineering student who is passionate about information security. Currently, I am in my first year of engineering studies and also work simultaneously in the AGENA cloud and security department as a network and system specialist.
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IbrahimEsprit&theme=dark&background=000000)](https://git.io/streak-stats)
