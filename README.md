@@ -28,7 +28,7 @@ I have always been fascinated by technology, and my passion for networking and s
 # Contact :iphone:
 
   * Email : Ibrahim.barkallah@esprit.tn
-  * Linkedin : https://www.linkedin.com/in/ibrahim-barkallah-a0b830209/
+  * Linkedin : https://www.linkedin.com/in/ibrahim-barkallah/
 # 
 ![image](https://user-images.githubusercontent.com/123778955/232210597-ccae3595-ce7e-41e3-b500-fd489d6c14b6.png)
 ![image](https://user-images.githubusercontent.com/123778955/232210726-c98970c4-dc3f-4ad6-a0ab-ea03411d4877.png)
